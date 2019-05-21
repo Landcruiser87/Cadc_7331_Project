@@ -1,4 +1,4 @@
-# Walmart, the final frontier.
+# Cars cars cars, how we love them.
 
 This repo is dedicated to our term project for  DS7331 Data mining.  We hope that you enjoy the show and hopefully we came up with something that didn't suck.  
 
