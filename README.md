@@ -5,4 +5,4 @@ This repo is dedicated to our term project for  DS7331 Data mining.  We hope tha
 Love, 
 
 Nic Cage's #1 fan
-![DataScienceProfile](https://github.com/Landcruiser87/Cadc_7331_Project/Data/blob/master/niccage.jpg? "Science!")
+![DataScienceProfile](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/data/niccage.jpg? "Science!")
