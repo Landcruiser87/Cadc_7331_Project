@@ -7,6 +7,7 @@ let
   iPython = jupyter.kernels.iPythonWith {
     name = "python";
     packages = p: with p; [
+      plotly
       numpy
       pandas
       matplotlib
