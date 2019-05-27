@@ -10,6 +10,7 @@ let
       plotly
       numpy
       pandas
+      jupytext
       matplotlib
       scikitlearn
       seaborn
@@ -42,6 +43,12 @@ let
   jupyterEnvironment =
     jupyter.jupyterlabWith {
       kernels = [ iPython iHaskell iR];
+ #     directory = jupyter.mkDirectoryWith {
+#        extensions = [
+  #        "jupyterlab-jupytext"
+   #     ];
+    #  };
+#      directory = ./jupyterlab;
     };
     pkgs = import <nixpkgs> {};
 in
@@ -56,6 +63,7 @@ in
        #python37Packages.sqlite
        python37Packages.notebook
        python37Packages.ipython
+       python37Packages.jupytext
        python37Packages.scikitlearn
        python37Packages.seaborn
        python37Packages.scipy
