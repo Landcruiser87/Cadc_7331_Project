@@ -1,11 +1,3 @@
-# COFFEEEEEEE, how we love it.
+# Coffee Institute Rankings EDA
 
-This repo is dedicated to our term project for  DS7331 Data mining.  We hope that you enjoy the show and hopefully we came up with something that didn't suck.  
-
-Love, 
-
-Nic Cage's #1 fan
-
-
-
-![DataScienceProfile](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/data/niccage.jpg? "Science!")
+This repo is dedicated to our first project for DS7331 Data mining.  We hope that you enjoy the analysis and learn a thing or two while you're at it.
