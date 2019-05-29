@@ -1,3 +1,5 @@
 .DS_Store
 Data/
 data/
+.idea
+.vscode
